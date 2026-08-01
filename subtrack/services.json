@@ -1,0 +1,489 @@
+{
+  "schema": 1,
+  "priceAsOf": "2026年8月",
+  "services": [
+    {
+      "name": "Netflix",
+      "category": "video",
+      "plans": [
+        {
+          "name": "広告つきスタンダード",
+          "price": 890,
+          "cycle": "monthly"
+        },
+        {
+          "name": "スタンダード",
+          "price": 1590,
+          "cycle": "monthly"
+        },
+        {
+          "name": "プレミアム",
+          "price": 2290,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "Amazonプライム",
+      "category": "video",
+      "plans": [
+        {
+          "name": "月間",
+          "price": 600,
+          "cycle": "monthly"
+        },
+        {
+          "name": "年間",
+          "price": 5900,
+          "cycle": "yearly"
+        }
+      ]
+    },
+    {
+      "name": "YouTube Premium",
+      "category": "video",
+      "plans": [
+        {
+          "name": "個人（月額）",
+          "price": 1280,
+          "cycle": "monthly"
+        },
+        {
+          "name": "個人（年額）",
+          "price": 12800,
+          "cycle": "yearly"
+        },
+        {
+          "name": "ファミリー",
+          "price": 2280,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "Disney+",
+      "category": "video",
+      "plans": [
+        {
+          "name": "スタンダード（月額）",
+          "price": 1250,
+          "cycle": "monthly"
+        },
+        {
+          "name": "スタンダード（年額）",
+          "price": 12500,
+          "cycle": "yearly"
+        },
+        {
+          "name": "プレミアム（月額）",
+          "price": 1670,
+          "cycle": "monthly"
+        },
+        {
+          "name": "プレミアム（年額）",
+          "price": 16700,
+          "cycle": "yearly"
+        }
+      ]
+    },
+    {
+      "name": "U-NEXT",
+      "category": "video",
+      "plans": [
+        {
+          "name": "月額プラン",
+          "price": 2189,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "Hulu",
+      "category": "video",
+      "plans": [
+        {
+          "name": "月額プラン",
+          "price": 1026,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "DAZN",
+      "category": "video",
+      "plans": [
+        {
+          "name": "スタンダード",
+          "price": 4200,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "ABEMAプレミアム",
+      "category": "video",
+      "plans": [
+        {
+          "name": "月額プラン",
+          "price": 1080,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "dアニメストア",
+      "category": "video",
+      "plans": [
+        {
+          "name": "月額プラン",
+          "price": 550,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "ニコニコプレミアム",
+      "category": "video",
+      "plans": [
+        {
+          "name": "月額プラン",
+          "price": 790,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "WOWOW",
+      "category": "video",
+      "plans": [
+        {
+          "name": "月額プラン",
+          "price": 2530,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "Spotify",
+      "category": "music",
+      "plans": [
+        {
+          "name": "Standard",
+          "price": 1080,
+          "cycle": "monthly"
+        },
+        {
+          "name": "Duo",
+          "price": 1480,
+          "cycle": "monthly"
+        },
+        {
+          "name": "Family",
+          "price": 1880,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "Apple Music",
+      "category": "music",
+      "plans": [
+        {
+          "name": "個人（月額）",
+          "price": 1180,
+          "cycle": "monthly"
+        },
+        {
+          "name": "個人（年額）",
+          "price": 10800,
+          "cycle": "yearly"
+        },
+        {
+          "name": "ファミリー",
+          "price": 1980,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "YouTube Music Premium",
+      "category": "music",
+      "plans": [
+        {
+          "name": "個人",
+          "price": 1080,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "LINE MUSIC",
+      "category": "music",
+      "plans": [
+        {
+          "name": "一般",
+          "price": 1080,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "AWA",
+      "category": "music",
+      "plans": [
+        {
+          "name": "STANDARD",
+          "price": 980,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "PlayStation Plus",
+      "category": "game",
+      "plans": [
+        {
+          "name": "エッセンシャル（月額）",
+          "price": 850,
+          "cycle": "monthly"
+        },
+        {
+          "name": "エッセンシャル（年額）",
+          "price": 6800,
+          "cycle": "yearly"
+        },
+        {
+          "name": "エクストラ（年額）",
+          "price": 11700,
+          "cycle": "yearly"
+        },
+        {
+          "name": "プレミアム（年額）",
+          "price": 13900,
+          "cycle": "yearly"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Switch Online",
+      "category": "game",
+      "plans": [
+        {
+          "name": "個人（月額）",
+          "price": 400,
+          "cycle": "monthly"
+        },
+        {
+          "name": "個人（年額）",
+          "price": 3000,
+          "cycle": "yearly"
+        },
+        {
+          "name": "ファミリー（年額）",
+          "price": 5800,
+          "cycle": "yearly"
+        }
+      ]
+    },
+    {
+      "name": "Xbox Game Pass",
+      "category": "game",
+      "plans": [
+        {
+          "name": "Ultimate",
+          "price": 1550,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "Apple Arcade",
+      "category": "game",
+      "plans": [
+        {
+          "name": "月額プラン",
+          "price": 900,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "iCloud+",
+      "category": "cloud",
+      "plans": [
+        {
+          "name": "50GB",
+          "price": 180,
+          "cycle": "monthly"
+        },
+        {
+          "name": "200GB",
+          "price": 540,
+          "cycle": "monthly"
+        },
+        {
+          "name": "2TB",
+          "price": 1800,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "Google One",
+      "category": "cloud",
+      "plans": [
+        {
+          "name": "ベーシック 100GB",
+          "price": 250,
+          "cycle": "monthly"
+        },
+        {
+          "name": "プレミアム 2TB",
+          "price": 1300,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "Dropbox",
+      "category": "cloud",
+      "plans": [
+        {
+          "name": "Plus 2TB",
+          "price": 1500,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "Apple One",
+      "category": "cloud",
+      "plans": [
+        {
+          "name": "個人",
+          "price": 1350,
+          "cycle": "monthly"
+        },
+        {
+          "name": "ファミリー",
+          "price": 2500,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "ChatGPT Plus",
+      "category": "ai",
+      "plans": [
+        {
+          "name": "Plus",
+          "price": 3000,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "Claude Pro",
+      "category": "ai",
+      "plans": [
+        {
+          "name": "Pro",
+          "price": 3000,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft 365",
+      "category": "ai",
+      "plans": [
+        {
+          "name": "Personal（月額）",
+          "price": 2130,
+          "cycle": "monthly"
+        },
+        {
+          "name": "Personal（年額）",
+          "price": 21300,
+          "cycle": "yearly"
+        }
+      ]
+    },
+    {
+      "name": "Adobe Creative Cloud",
+      "category": "ai",
+      "plans": [
+        {
+          "name": "Creative Cloud Pro",
+          "price": 9080,
+          "cycle": "monthly"
+        },
+        {
+          "name": "Creative Cloud Standard",
+          "price": 6480,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "Kindle Unlimited",
+      "category": "reading",
+      "plans": [
+        {
+          "name": "月額プラン",
+          "price": 980,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "Audible",
+      "category": "reading",
+      "plans": [
+        {
+          "name": "月額プラン",
+          "price": 1500,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "楽天マガジン",
+      "category": "reading",
+      "plans": [
+        {
+          "name": "月額プラン",
+          "price": 572,
+          "cycle": "monthly"
+        },
+        {
+          "name": "年額プラン",
+          "price": 5500,
+          "cycle": "yearly"
+        }
+      ]
+    },
+    {
+      "name": "dマガジン",
+      "category": "reading",
+      "plans": [
+        {
+          "name": "月額プラン",
+          "price": 580,
+          "cycle": "monthly"
+        }
+      ]
+    },
+    {
+      "name": "日経電子版",
+      "category": "reading",
+      "plans": [
+        {
+          "name": "月額プラン",
+          "price": 4277,
+          "cycle": "monthly"
+        }
+      ]
+    }
+  ]
+}
